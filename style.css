@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', 'sans-serif';
+}
+
+button {
+    display: flex;
+    background-color: blue;
+    margin: 0 auto;
+    margin-top: 25px;
+    width: 250px;
+    height: 45px;
+    justify-content: center;
+    font-size: 25px;
+}
+
+#inputtask {
+    display: flex;
+    background-color: blue;
+    margin: 0 auto;
+    margin-top: 25px;
+    width: 250px;
+    height: 45px;
+    justify-content: center;
+    font-size: 25px;
+    color: white;
+}
+
+.div1 {
+
+    margin: 0 auto;
+    margin-top: 25px;
+}
